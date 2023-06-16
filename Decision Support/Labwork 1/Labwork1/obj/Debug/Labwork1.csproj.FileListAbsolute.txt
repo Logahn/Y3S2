@@ -1,0 +1,11 @@
+D:\Программы\ППР\Lr1\Lr1\bin\Debug\Lr1.exe.config
+D:\Программы\ППР\Lr1\Lr1\bin\Debug\Lr1.exe
+D:\Программы\ППР\Lr1\Lr1\bin\Debug\Lr1.pdb
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.csproj.AssemblyReference.cache
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.csproj.SuggestedBindingRedirects.cache
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.Form1.resources
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.Properties.Resources.resources
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.csproj.GenerateResource.cache
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.csproj.CoreCompileInputs.cache
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.exe
+D:\Программы\ППР\Lr1\Lr1\obj\Debug\Lr1.pdb
